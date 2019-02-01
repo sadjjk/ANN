@@ -10,7 +10,7 @@
 
 
 
-<img src=pic/1549003527186.png width = "50%" height = "50%" div align=left />
+![1549006654972](pic/1549006654972.png)
 
 ​         
 
